@@ -1,0 +1,92 @@
+{
+  "Ads": [
+    {
+      "select_ads": "STARTAPP",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+      "admob_bannerid": "ca-app-pub-3940256099942544/6300978111",
+      "admob_openid": "ca-app-pub-3940256099942544/1033173712",
+      "interval_intertitial": "3",
+      "startappid": "201669628",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+      "mopub_inter": "24534e1901884e398f1253216226017e",
+      "packagename": "com.trending.fakevideocall.fakechat.btsallstar"
+    }
+  ],
+
+  "Contact":
+[
+  {
+    "id":1,
+    "title":"luky_cute",
+    "description":"Cikoneng Unity Empire",
+    "image":"http://aliendro.id/uploads/YTAPP/luki.jpg",
+    "videoid":"http://hexa.web.id/footbal.mov"
+  },
+  {
+  "id":2,
+  "title":"sofan_dianto",
+  "description":"Nano Studio",
+  "image":"http://aliendro.id/uploads/YTAPP/sofan.jpg",
+  "videoid":"http://hexa.web.id/footbal.mov"
+  },
+  {
+    "id":3,
+    "title":"henry_jie",
+    "description":"Motivator Kuli Panggul",
+    "image":"http://aliendro.id/uploads/YTAPP/henri.jpg",
+    "videoid":"http://hexa.web.id/footbal.mov"
+  },
+  {
+  "id":4,
+  "title":"mr_kim",
+  "description":"Reskin Aliendroid",
+  "image":"file:///android_asset/13.jpg",
+  "videoid":"http://hexa.web.id/footbal.mov"
+},
+  {
+  "id":4,
+  "title":"young_fahmi_lex",
+  "description":"Wakil Ketua Umum IMNU",
+  "image":"file:///android_asset/alienboot/image/fahmi.jpg",
+  "videoid":"http://hexa.web.id/footbal.mov"
+}
+],
+  "Wallpaper":
+  [
+    {
+      "id":1,
+      "title":"Waterfall",
+      "image":"https://i.pinimg.com/564x/a7/43/2d/a7432d11b2a629d1f05162a6c518744f.jpg"
+    },
+    {
+      "id": 2,
+      "title": "River",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+    },
+    {
+      "id":3,
+      "title":"Mountain",
+      "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cd5f075-42da-466b-b00a-8bb7ef66ad32/da9l0sw-5f1c1073-d232-4c10-8385-6176e1d71be2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMWNkNWYwNzUtNDJkYS00NjZiLWIwMGEtOGJiN2VmNjZhZDMyXC9kYTlsMHN3LTVmMWMxMDczLWQyMzItNGMxMC04Mzg1LTYxNzZlMWQ3MWJlMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QqjZ3T5HxGHJ8A3n3lC87BcVcLoXJUZZ1DOWf4MK4Ew"
+    },
+    {
+      "id":4,
+      "title":"Cute Cat",
+      "image":"http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+    }
+  ,
+    {
+      "id":5,
+      "title":"Dog",
+      "image":"https://3diphonewallpaper.com/wp-content/uploads/2018/03/iPhone-Wallpaper-Cute-Puppies-Pictures.jpg"
+    },
+    {
+      "id":6,
+      "title":"Super Car",
+      "image":"file:///android_asset/alienboot/image/car.jpg"
+    }
+  ]
+}
